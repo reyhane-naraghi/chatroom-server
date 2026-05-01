@@ -1,12 +1,13 @@
-# توضیحات مختصر 
-سرور اپلیکیشن چت انلاین با قابلیت ارسال و دریافت پیام.
+# Socket.io Chatroom Server
 
-# ابزار های مورد استفاده 
-نود جی اس و همچنین سوکت ای او به منظوراتصال و تعامل بین
-کاربران.
+A simple chatroom that allows you to create a room and broadcast messages.
 
-# نحوه اجرا
-پس از دریافت دیپندنسی ها دستور npm start را اجرا کنید.
+# Tools
 
-ریپازتوری کلاینت با نام simple-chat-app-client بر روی همین 
-اکانت وجود دارد.
+- socket.io
+- react
+- tailwindcss
+
+# Run command
+
+npm run dev
